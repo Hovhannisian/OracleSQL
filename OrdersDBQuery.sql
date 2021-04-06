@@ -1,6 +1,3 @@
-REM   Script: HW3 partB
-REM   part b
-
 create table customers ( 
 customer_id number(6) primary key, 
 fname varchar2(20byte) not null, 
