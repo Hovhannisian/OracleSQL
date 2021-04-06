@@ -1,8 +1,3 @@
-REM   Script: HW3 partA
-REM   part 1 final wout comments
-
-select *from hospital;
-
 create table hospital (  
 hosp_id number primary key,  
 hname varchar2(15char) not null,  
