@@ -1,6 +1,3 @@
-REM   Script: HW5
-REM   hw 5 1, 2, 3
-
 create table customers (  
 customer_id number(6) primary key,  
 fname varchar2(20byte) not null,  
